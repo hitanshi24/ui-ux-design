@@ -1,0 +1,11 @@
+Heartbeat monitoring app
+
+Short description of your project idea. The description answer the following questions: What is it, Who is it for, and Where does it live?
+Way to heart is heartbeat monitoring,it helps to measure person's heartbeat and it also keeps the record of previous measurements based on which it creates a graph.
+The application is useful for all the people,but it is specially helpful to "gym freaks".It is also useful for swimmers as they can keep the track.
+The application runs in mobile phone and also in smart watches.
+
+Describe the main activity or function of the app. What will the user be able to do from the app's home screen?
+As the user opens the app he/she can see his/her current heartbeat per minute.In the graph section there will also be a record of user's previous beats.If heartbeats 
+get faster or lower than required the person will get notification in his/her phone and also to the contact he/she has given in emergency section.
+
