@@ -1,0 +1,70 @@
+A Health monitoring App
+
+Tagline
+"A Healthy heartbeat is a wonderful treat!!!Eat healthy,stay healthy!!"
+
+Description
+My application name is Fitbit. It is an app in which user can get suggestion of daily workout and diet based on their weight and schedule . 
+User can measure heartbeat and a graph is also generated based on previous heartbeats
+
+Main activity or function of the app. What will the user be able to do from the app's home screen?
+As the user opens the app he/she can see his/her current heartbeat per minute.In the graph section there will also be a record of user's previous beats.
+If heartbeats get faster or lower than required the person will get notification in his/her phone and also to the contact he/she has given in emergency section.
+
+Specific functions that app will do. Listed in order of importance, with the first idea being the most important.
+The graph will be generated of user previous heartbeats. 
+Exercises will be suggested based on weight
+Dietplan will be suggested based on weight.
+Share the data with people
+
+Client/designer goals for your app design.
+Help people to change their lifestyle
+Make money
+Help people in maintaining their body
+Provide useful app 
+
+3 existing apps that are similar to our app idea.
+Daily yoga
+Sworkit
+Fiton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
